@@ -2,4 +2,4 @@
 
 Regenerating Protocol Buffers bindings:
 
-`protoc --swift_out=Sources/GtfsRtDemo -I Sources/GtfsRtDemo Sources/GtfsRtDemo/proto/google/transit/*.proto`
+`protoc --swift_out=Sources/GtfsRtDump -I Sources/GtfsRtDump Sources/GtfsRtDump/proto/google/transit/*.proto`
